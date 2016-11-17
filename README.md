@@ -16,10 +16,12 @@
     可以修改皮肤
 
 ###  这个项目主要是采用html5 进行编写
-  里面是用到的库有：
-               1. zepto.min.js (http://zeptojs.com/zepto.min.js)
-    			2.jquert的插件：jquery.base64.js (此文件用来对图片进行base64位处理)
-               3.jquery.jsonp.js 此文件是对从接口获得数据，防止跨域时，获取不到数据，所以采用jsonp		
+
+      里面是用到的库有：
+
+        1. zepto.min.js (http://zeptojs.com/zepto.min.js)
+  			2.jquert的插件：jquery.base64.js (此文件用来对图片进行base64位处理)
+        3.jquery.jsonp.js 此文件是对从接口获得数据，防止跨域时，获取不到数据，所以采用jsonp		
 
 ###  文件夹：
        css:放入css样式文件，其中包括reset.css(重置样式表),以及index.css(项目css),和一个base64图片的txt
